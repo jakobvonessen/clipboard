@@ -7,8 +7,8 @@ Primarily performs OCR on image copied to clipboard, using [pytesseract](https:/
 * Opens `Save As` dialog, to rename the file previously saved to something else, then copies new path to clipboard.
 ### clipboardSearchReplace.py
 GUI app to quickly perform search and replace functions on text in the clipboard. Features:
-* 
+* Include a comma (**,**) to append 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMzAxMzI3LDE1MjQ3NjM1NDgsLTk4ND
-M4ODI3LDUwNDQxNDIxNCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTQwNDA1NDQ0OSwxNTI0NzYzNTQ4LC05OD
+QzODgyNyw1MDQ0MTQyMTQsLTMzMjQ1NTM2M119
 -->
