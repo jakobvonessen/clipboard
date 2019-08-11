@@ -12,12 +12,13 @@ GUI app to quickly perform search and replace functions on text in the clipboard
 ### colorPicker.py
 Allows easy access to RGB color values of images in clipboard by showing the image, with a border showing the currently selected color, copying the `rgb(x,y,z)` values of the selected color when exiting.
 ### hitta.py
+GUI app that searches on the Swedish person 
 ### notify.py
-Uses the AutoHotkey
+Uses the AutoHotkey scripting platform to 
 ### saveClipboardImage.py
 Saves current clipboard image data as an image in `C:\temp`, then copies the full search path (e.g., `C:\temp\24.png`) to clipboard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODk4ODQwMCwxNTQ1MTE4ODExLDIxMz
+eyJoaXN0b3J5IjpbMjA3NTYxMjc5OCwxNTQ1MTE4ODExLDIxMz
 Q4MDg0MjcsLTIwMzMxMjE2NjYsMTUyNDc2MzU0OCwtOTg0Mzg4
 MjcsNTA0NDE0MjE0LC0zMzI0NTUzNjNdfQ==
 -->
