@@ -13,12 +13,14 @@ GUI app to quickly perform search and replace functions on text in the clipboard
 Allows easy access to RGB color values of images in clipboard by showing the image, with a border showing the currently selected color, copying the `rgb(x,y,z)` values of the selected color when exiting.
 ### [hitta.py](https://github.com/jakobvonessen/clipboard/blob/master/hitta.py)
 GUI app that searches on the Swedish address finding website hitta.se
-### [notify.py](https://github.com/jakobvonessen/clipboard/blob/master/notify.py)
-Uses the AutoHotkey scripting language's native *Notify* function to send a notification to the user, 
+
+
 ### saveClipboardImage.py
 Saves current clipboard image data as an image in `C:\temp`, then copies the full search path (e.g., `C:\temp\24.png`) to clipboard.
+### [notify.py](https://github.com/jakobvonessen/clipboard/blob/master/notify.py)
+Wrapper for the AutoHotkey scripting language's native *Notify* function to send a notification to the user. Used by scripts above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE5NDkzODUsMTU0NTExODgxMSwyMT
-M0ODA4NDI3LC0yMDMzMTIxNjY2LDE1MjQ3NjM1NDgsLTk4NDM4
-ODI3LDUwNDQxNDIxNCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNjYzMDY3NjA4LDE1NDUxMTg4MTEsMjEzND
+gwODQyNywtMjAzMzEyMTY2NiwxNTI0NzYzNTQ4LC05ODQzODgy
+Nyw1MDQ0MTQyMTQsLTMzMjQ1NTM2M119
 -->
