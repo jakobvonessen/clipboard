@@ -11,9 +11,12 @@ GUI app to quickly perform search and replace functions on text in the clipboard
     * **Example**: Replace `a green boat` with `a yellow boat, a blue boat, a red boat, a black boat` by entering `green` in the *search* field, and `yellow,blue,red,black` in the *replace* field, and `,` instead of `\n` (default) in the *delimiter* field.
 ### colorPicker.py
 Allows easy access to RGB color values of images in clipboard by showing the image, with a border showing the currently selected color, copying the `rgb(x,y,z)` values of the selected color when exiting.
-### 
+### hitta.py
+### notify.py
+### saveClipboardImage.py
+Saves current clipboard 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTExODgxMSwyMTM0ODA4NDI3LC0yMD
-MzMTIxNjY2LDE1MjQ3NjM1NDgsLTk4NDM4ODI3LDUwNDQxNDIx
-NCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0OTMzNzkyODAsMTU0NTExODgxMSwyMT
+M0ODA4NDI3LC0yMDMzMTIxNjY2LDE1MjQ3NjM1NDgsLTk4NDM4
+ODI3LDUwNDQxNDIxNCwtMzMyNDU1MzYzXX0=
 -->
