@@ -9,8 +9,10 @@ Primarily performs OCR on image copied to clipboard, using [pytesseract](https:/
 GUI app to quickly perform search and replace functions on text in the clipboard. Features:
 * Include a comma (**,**) to get several similar phrases at the same time, by specifying only the differences.
     * **Example**: Replace `a green boat` with `a yellow boat, a blue boat, a red boat, a black boat` by entering `green` in the *search* field, and `yellow,blue,red,black` in the *replace* field, and `,` instead of `\n` (default) in the *delimiter* field.
-
+### colorPicker.py
+Allows easy access to RGB color values of images in clipboard by 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMxMjE2NjYsMTUyNDc2MzU0OCwtOT
-g0Mzg4MjcsNTA0NDE0MjE0LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMjEzNDgwODQyNywtMjAzMzEyMTY2NiwxNT
+I0NzYzNTQ4LC05ODQzODgyNyw1MDQ0MTQyMTQsLTMzMjQ1NTM2
+M119
 -->
