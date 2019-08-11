@@ -8,9 +8,9 @@ Primarily performs OCR on image copied to clipboard, using [pytesseract](https:/
 ### clipboardSearchReplace.py
 GUI app to quickly perform search and replace functions on text in the clipboard. Features:
 * Include a comma (**,**) to get several similar phrases at the same time, by specifying only the differences.
-*          Something
+    * **Example**: Replace `A green boat` with `A yellow boat, A `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjU0NzQzMCwxNTI0NzYzNTQ4LC05OD
+eyJoaXN0b3J5IjpbLTg0MjMzMzU0MiwxNTI0NzYzNTQ4LC05OD
 QzODgyNyw1MDQ0MTQyMTQsLTMzMjQ1NTM2M119
 -->
