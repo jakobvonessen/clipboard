@@ -13,10 +13,11 @@ GUI app to quickly perform search and replace functions on text in the clipboard
 Allows easy access to RGB color values of images in clipboard by showing the image, with a border showing the currently selected color, copying the `rgb(x,y,z)` values of the selected color when exiting.
 ### hitta.py
 ### notify.py
+Uses the AutoHotkey
 ### saveClipboardImage.py
-Saves current clipboard 
+Saves current clipboard image data as an image in `C:\temp`, then copies the full search path (e.g., `C:\temp\24.png`) to clipboard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMzNzkyODAsMTU0NTExODgxMSwyMT
-M0ODA4NDI3LC0yMDMzMTIxNjY2LDE1MjQ3NjM1NDgsLTk4NDM4
-ODI3LDUwNDQxNDIxNCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTI3ODk4ODQwMCwxNTQ1MTE4ODExLDIxMz
+Q4MDg0MjcsLTIwMzMxMjE2NjYsMTUyNDc2MzU0OCwtOTg0Mzg4
+MjcsNTA0NDE0MjE0LC0zMzI0NTUzNjNdfQ==
 -->
