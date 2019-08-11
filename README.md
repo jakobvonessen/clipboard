@@ -10,9 +10,9 @@ GUI app to quickly perform search and replace functions on text in the clipboard
 * Include a comma (**,**) to get several similar phrases at the same time, by specifying only the differences.
     * **Example**: Replace `a green boat` with `a yellow boat, a blue boat, a red boat, a black boat` by entering `green` in the *search* field, and `yellow,blue,red,black` in the *replace* field, and `,` instead of `\n` (default) in the *delimiter* field.
 ### colorPicker.py
-Allows easy access to RGB color values of images in clipboard by 
+Allows easy access to RGB color values of images in clipboard by showing the image, and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDgwODQyNywtMjAzMzEyMTY2NiwxNT
-I0NzYzNTQ4LC05ODQzODgyNyw1MDQ0MTQyMTQsLTMzMjQ1NTM2
-M119
+eyJoaXN0b3J5IjpbMTYxMDgyODE4NywyMTM0ODA4NDI3LC0yMD
+MzMTIxNjY2LDE1MjQ3NjM1NDgsLTk4NDM4ODI3LDUwNDQxNDIx
+NCwtMzMyNDU1MzYzXX0=
 -->
